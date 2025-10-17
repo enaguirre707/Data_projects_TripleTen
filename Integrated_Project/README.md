@@ -52,9 +52,7 @@ Path to files:
 
 Use these formulas for evaluation metrics: 
 
-Inserting image... 
 
-Inserting image... 
 
 Project evaluation 
 
